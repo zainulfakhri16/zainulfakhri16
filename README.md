@@ -11,18 +11,6 @@ I'm Zainul Fakhri, originally from Indonesia, living in Makassar and currently s
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/zainul.fahkri)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6282193046901)
 
----
-
-### Donate via :
-
-[![PayPal](https://img.shields.io/badge/-PayPal-0088cc?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/paypalme/azwarbahar)
-
-
-[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
-
----
-
-
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=azwarbahar.azwarbahar)
 
