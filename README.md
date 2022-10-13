@@ -24,7 +24,6 @@ I Have an Interest in the world of Programming and system development. Competent
 - 
 
 
-</br>
 ### &#x1f4c8; GitHub Stats
 <p>
   <a href="https://github.com/zainulfakhri16/zainulfakhri16">
