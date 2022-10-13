@@ -28,8 +28,6 @@ I'm Zainul Fakhri, originally from Indonesia, living in Makassar and currently s
 
 I Have an Interest in the world of Programming and system development. Competent in this matter is my dream. Lately I have spent a lot of my time studying and deepening it. 
 
-<img align="right" alt="GIF" src="https://github.com/azwarbahar/azwarbahar/blob/main/coding.gif?raw=true" width="308" height="258" />
-
 **About me:**
 - 👨🏻‍💻 I’m currently working on something cool;
 - :school: My last education at [Universitas Islam Negeri Alauddin Makassar](https://uin-alauddin.ac.id)
@@ -40,11 +38,13 @@ I Have an Interest in the world of Programming and system development. Competent
 
 </br>
 📈 My GitHub Stats:
+<a href="https://github.com/zainulfakhri16/zainulfakhri16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulfakhri16=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainulfakhri16&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="Zain's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulfakhri16&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</p>
+<a href="https://github.com/zainulfakhri16/zainulfakhri16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zainulfakhri16&show_icons=true&line_height=27&=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 <!--
