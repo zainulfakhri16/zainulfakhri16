@@ -34,7 +34,7 @@ I Have an Interest in the world of Programming and system development. Competent
 - 👨🏻‍💻 I’m currently working on something cool;
 - :school: My last education at [Universitas Islam Negeri Alauddin Makassar](https://uin-alauddin.ac.id)
 - 📫 How to reach me: zainul.fakhri2002@gmail.com;
-- 🌐: datangki.com
+- 🌐 My website: [datangki.com](https://datangki.com)
 - 
 
 
