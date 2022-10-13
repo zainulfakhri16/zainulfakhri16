@@ -42,11 +42,6 @@ I Have an Interest in the world of Programming and system development. Competent
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulfakhri16=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/zainulfakhri16/zainulfakhri16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zainulfakhri16&show_icons=true&line_height=27&=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
 <!--
 **azwarbahar/azwarbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!--
