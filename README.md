@@ -1,5 +1,5 @@
 
-# Hello Public! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hello Public! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I'm Zainul Fakhri, originally from Indonesia, living in Makassar and currently studying at the State Islamic University of Alauddin Makassar majoring in Information Systems. I am focused on Mobile App programming.
 
@@ -43,7 +43,7 @@ I Have an Interest in the world of Programming and system development. Competent
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarbahar&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="Azwar's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainulfakhri16&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="Azwar's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azwarbahar&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </p>
 
