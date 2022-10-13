@@ -12,9 +12,9 @@ I'm Zainul Fakhri, originally from Indonesia, living in Makassar and currently s
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6282193046901)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=zainulfakhri16.zainulfakhri16)
+### Glad to see you here!
 
-I Have an Interest in the world of Programming and system development. Competent in this matter is my dream. Lately I have spent a lot of my time studying and deepening it. 
+I Have Interest in the world of Programming and system development. Being competent in this is my dream. Currently I spend more of my time in the coding world to learn it and deepen it. 
 
 **About me:**
 - 👨🏻‍💻 I’m currently working on something cool;
