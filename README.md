@@ -33,22 +33,19 @@ I Have an Interest in the world of Programming and system development. Competent
 **About me:**
 - 👨🏻‍💻 I’m currently working on something cool;
 - :school: My last education at [Universitas Islam Negeri Alauddin Makassar](https://uin-alauddin.ac.id)
-- 📫 How to reach me: azwarbahar07@gmail.com;
-- :triangular_flag_on_post: I'm from Makassar,Indonesia
-
-- Downlaod My [ CV ](https://drive.google.com/file/d/1L9ojqBYiL_aa3lRhbKnwqlU7r-bF3Jgq/view?usp=sharing)
+- 📫 How to reach me: zainul.fakhri2002@gmail.com;
+- 🌐: datangki.com
+- 
 
 
 </br>
-📈 **My GitHub Stats:**
+📈 My GitHub Stats:
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainulfakhri16&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="Azwar's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azwarbahar&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainulfakhri16&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="Zain's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulfakhri16&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </p>
 
-### My WakaTime Coding Activity ###
-<img src="https://github.com/azwarbahar/azwarbahar/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 <!--
 **azwarbahar/azwarbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
