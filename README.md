@@ -21,7 +21,6 @@ I Have Interest in the world of Programming and system development. Being compet
 - :school: My last education at [Universitas Islam Negeri Alauddin Makassar](https://uin-alauddin.ac.id)
 - 📫 How to reach me: zainul.fakhri2002@gmail.com;
 - 🌐 My website: [datangki.com](https://datangki.com)
-- 
 
 
 ### &#x1f4c8; GitHub Stats
