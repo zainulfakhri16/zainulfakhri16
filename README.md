@@ -25,7 +25,7 @@ I Have an Interest in the world of Programming and system development. Competent
 
 
 </br>
-###📈 My GitHub Stats:
+### &#x1f4c8; GitHub Stats
 <p>
   <a href="https://github.com/zainulfakhri16/zainulfakhri16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainulfakhri16&hide=htmle&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
