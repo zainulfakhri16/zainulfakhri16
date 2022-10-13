@@ -26,8 +26,8 @@ I Have Interest in the world of Programming and system development. Being compet
 ### &#x1f4c8; GitHub Stats
 <p>
   <a href="https://github.com/zainulfakhri16/zainulfakhri16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainulfakhri16&hide=htmle&show_icons=true&include_all_commits=true&bg_color=30,016193,1FC4DA&title_color=fff&text_color=fff&icon_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulfakhri16&hide=html,tex&bg_color=30,016193,1FC4DA&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zainulfakhri16&hide=htmle&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulfakhri16&hide=html,tex&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </p>
 
 <!--
