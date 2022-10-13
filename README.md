@@ -1,6 +1,8 @@
 
 # Hello Public! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+I'm Zainul Fakhri, originally from Indonesia, living in Makassar and currently studying at the State Islamic University of Alauddin Makassar majoring in Information Systems. I am focused on Mobile App programming.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](-)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ch3_Stultus)
